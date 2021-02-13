@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9fa0623b6815a904baf1f1d381f36ad2, type: 3}
+  m_Name: RoombaStats
+  m_EditorClassIdentifier: 
+  upgrades:
+  - {fileID: 11400000, guid: c5f7b138c73d972498acf4a7a2086714, type: 2}
+  - {fileID: 11400000, guid: 097ca5956b9db6147bd380da978a52f8, type: 2}
+  - {fileID: 11400000, guid: 8d4a70c57ed735a4186e2aecfb0b3f7f, type: 2}
+  - {fileID: 11400000, guid: 05dfa7491e5912a4193acac5e214a1f4, type: 2}
+  - {fileID: 11400000, guid: 7021493120eeb3d43a412452b78e0622, type: 2}
+  money: 0
